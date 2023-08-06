@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "456720157929",
+    "project_id": "heigrupos",
+    "storage_bucket": "heigrupos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456720157929:android:d946be178f1e528d263478",
+        "android_client_info": {
+          "package_name": "com.chatgrupo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456720157929-92pt1l517g3bofr8ji20v84jhnce8093.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAof1OUy9kHSCG_XouBH8a4Tuyw-HZVazg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456720157929-92pt1l517g3bofr8ji20v84jhnce8093.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456720157929:android:40ed1171ad5cd350263478",
+        "android_client_info": {
+          "package_name": "com.heigrupos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456720157929-92pt1l517g3bofr8ji20v84jhnce8093.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAof1OUy9kHSCG_XouBH8a4Tuyw-HZVazg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456720157929-92pt1l517g3bofr8ji20v84jhnce8093.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
